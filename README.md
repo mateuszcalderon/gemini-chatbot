@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="60" width="60">
+</p>
+
+<div align="center">
+  <h1>Gemini Chatbot</h1>
+</div>
+
+The **Gemini Chatbot** project is designed to deliver a basic yet robust and engaging conversational A.I. experience. Developed as a hands-on application during Alura's *Imersão I.A. com Alura e Gemini*, this project showcases seamless interaction with Google's powerful Gemini API. It allows for deep customization of the chatbot's persona and the maintenance of fluid, context-aware dialogues, providing a clear example of practical large language model integration.
+
 ## Code Walkthrough:
 #### Libraries:
 ```python
@@ -40,4 +50,10 @@ while prompt.lower() != "exit":
 
 ## Development Environment:
 This project was built on Google Colab.
-The main dependency,` google-genai `, was installed using the following command: ` !pip install google-genai `
+The main dependency, ` google-genai `, was installed using the following command: ` !pip install google-genai `
+
+## Contact:
+Feel free to reach out to me with any questions, suggestions, or feedback!<br/>
+  * [GitHub](https://github.com/mateuszcalderon)
+  * [Instagram](https://www.instagram.com/mateuszcalderon/)
+  * [LinkedIn](https://www.linkedin.com/in/mateuszcalderonreis/)
